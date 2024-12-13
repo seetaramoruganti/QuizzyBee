@@ -2,7 +2,7 @@
 
 QuizzyBEE is an interactive and dynamic quiz application built using React. The app allows users to test their knowledge by answering timed questions. It showcases modern React features such as hooks, state management, and functional components. Below are the key features and implementation details of QuizzyBEE.
 
-![QuizzyBEE Demo](quizzy.gif)
+![QuizzyBEE Demo](screenshots/quizzy.gif)
 
 ## Features
 
